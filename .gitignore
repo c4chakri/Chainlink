@@ -1,0 +1,25 @@
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables
+.env
+
+# Build files (if using a bundler like Webpack)
+dist/
+build/
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Optional ESLint cache
+.eslintcache
